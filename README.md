@@ -1,4 +1,9 @@
 
+# 20200315
+ 
+https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version/blob/master/%E7%AC%AC11%E7%AB%A0%20%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97.md
+hmm论文
+
 # 20200314
  xgboot 
  
